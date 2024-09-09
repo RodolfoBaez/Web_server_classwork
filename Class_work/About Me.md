@@ -1,5 +1,5 @@
 # Web_server_classwork
-
+![1681582671498 (2)](https://github.com/user-attachments/assets/8dc1e6f2-04a4-47c5-9d03-55a5cd97ce2c)
 ## I little about yourself
 My name is Rodolfo Baez, I was born in the Dominican Republic; Spanish is my mother tongue. I am 22 years old, and my twin brother and I are the eldest of 8 children. My favorite video game is Pokemon been playing ever since I came to America in 2009. I have played every mainline game ever since. I am the President of the SUNY New Paltz chapter of the Society of Professional Hispanic Engineers (SHPE). 
 
