@@ -1,3 +1,16 @@
+# this is an example repository for the "Web Programing" course at SUNY New paltz
+
+## getting started
+
+## Example code
+
+```typescirpt
+
+```
+
+
+## Contributors
+
 # Web_server_classwork
 ![1681582671498 (2)](https://github.com/user-attachments/assets/8dc1e6f2-04a4-47c5-9d03-55a5cd97ce2c)
 ## I little about yourself
