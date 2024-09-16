@@ -9,7 +9,10 @@
   href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"
 >
 <style>
-
+  .bg-white{
+    background-color: whitesmoke;
+  }
+  
 </style>
 
 </head>
@@ -81,7 +84,43 @@
     </div>
   </nav>
 
-  
-    </p>
+<div class="container">
+  <div class="section bg-white">
+    <div class="columns">
+      <div class="column is-three-quarters">
+        {{ message }}
+        <ul class="shelf">
+          <li>
+            <h3> {{ products.name }} </h3>
+            <p> {{ product.price }} </p>
+          </li>
+        </ul>
+      </div>
+      <div class="column"></div>
+    </div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script>
+     const { createApp, ref } = Vue
+       createApp({
+        setup() {
+          const message = ref('Hello vue!')
+          const products = ref([
+            {name:'Pizza',price:5.50},
+            {name:'Burger',price:6.99},
+            {name:'Coke',price:2.15},
+          ])
+
+          return {
+            message,products
+          }
+        }
+      }).mount('#app')
+  </script>
+
+
+
 </body>
 </html>
