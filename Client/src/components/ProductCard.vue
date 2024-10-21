@@ -13,8 +13,10 @@ defineProps<{
     </div>
     <div class="box-content">
       <h3>{{ product.title }}</h3>
+      <i>{{ product.brand }}</i>
       <p>{{ product.description }}</p>
-      <p>{{ product.price }}</p>
+      <p class="price">${{ product.price }}</p>
+      <button class="button is-sucess">add to cart</button>
     </div>
   </div>
 </template>
@@ -22,5 +24,10 @@ defineProps<{
 <style scoped>
 h3 {
   font-weight: bold;
+}
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  float: right;
 }
 </style>

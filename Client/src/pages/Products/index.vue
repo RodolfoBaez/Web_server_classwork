@@ -20,4 +20,9 @@ products.value = getAll().data
   justify-content: center;
   gap: 1rem;
 }
+
+.shelf .box {
+  flex-basis: 17rem;
+  flex-grow: 1;
+}
 </style>
