@@ -1,4 +1,5 @@
-/* B"H */
+/* B"H
+ */
 
 export interface DataEnvelope<T> {
   data: T

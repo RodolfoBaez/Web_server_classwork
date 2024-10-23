@@ -17,7 +17,10 @@
       "height": 193.24,
       "weight": 63.16,
       "eyeColor": "Green",
-      "hair": { "color": "Brown", "type": "Curly" },
+      "hair": {
+        "color": "Brown",
+        "type": "Curly"
+      },
       "ip": "42.48.100.32",
       "address": {
         "address": "626 Main Street",
@@ -25,7 +28,10 @@
         "state": "Mississippi",
         "stateCode": "MS",
         "postalCode": "29112",
-        "coordinates": { "lat": -77.16213, "lng": -92.084824 },
+        "coordinates": {
+          "lat": -77.16213,
+          "lng": -92.084824
+        },
         "country": "United States"
       },
       "macAddress": "47:fa:41:18:ec:eb",
@@ -47,7 +53,10 @@
           "state": "Wisconsin",
           "stateCode": "WI",
           "postalCode": "37657",
-          "coordinates": { "lat": 71.814525, "lng": -161.150263 },
+          "coordinates": {
+            "lat": 71.814525,
+            "lng": -161.150263
+          },
           "country": "United States"
         }
       },
@@ -78,7 +87,10 @@
       "height": 186.22,
       "weight": 76.32,
       "eyeColor": "Red",
-      "hair": { "color": "Green", "type": "Straight" },
+      "hair": {
+        "color": "Green",
+        "type": "Straight"
+      },
       "ip": "12.13.116.142",
       "address": {
         "address": "385 Fifth Street",
@@ -86,7 +98,10 @@
         "state": "Alabama",
         "stateCode": "AL",
         "postalCode": "38807",
-        "coordinates": { "lat": 22.815468, "lng": 115.608581 },
+        "coordinates": {
+          "lat": 22.815468,
+          "lng": 115.608581
+        },
         "country": "United States"
       },
       "macAddress": "79:15:78:99:60:aa",
@@ -108,7 +123,10 @@
           "state": "New Hampshire",
           "stateCode": "NH",
           "postalCode": "73442",
-          "coordinates": { "lat": 79.098326, "lng": -119.624845 },
+          "coordinates": {
+            "lat": 79.098326,
+            "lng": -119.624845
+          },
           "country": "United States"
         }
       },
@@ -139,7 +157,10 @@
       "height": 177.72,
       "weight": 52.6,
       "eyeColor": "Hazel",
-      "hair": { "color": "White", "type": "Wavy" },
+      "hair": {
+        "color": "White",
+        "type": "Wavy"
+      },
       "ip": "214.225.51.195",
       "address": {
         "address": "1642 Ninth Street",
@@ -147,7 +168,10 @@
         "state": "Alabama",
         "stateCode": "AL",
         "postalCode": "32822",
-        "coordinates": { "lat": 45.289366, "lng": 46.832664 },
+        "coordinates": {
+          "lat": 45.289366,
+          "lng": 46.832664
+        },
         "country": "United States"
       },
       "macAddress": "12:a3:d3:6f:5c:5b",
@@ -169,7 +193,10 @@
           "state": "Nevada",
           "stateCode": "NV",
           "postalCode": "88511",
-          "coordinates": { "lat": 20.086743, "lng": -34.577107 },
+          "coordinates": {
+            "lat": 20.086743,
+            "lng": -34.577107
+          },
           "country": "United States"
         }
       },
@@ -200,7 +227,10 @@
       "height": 193.31,
       "weight": 62.1,
       "eyeColor": "Amber",
-      "hair": { "color": "Blonde", "type": "Straight" },
+      "hair": {
+        "color": "Blonde",
+        "type": "Straight"
+      },
       "ip": "101.118.131.66",
       "address": {
         "address": "238 Jefferson Street",
@@ -208,7 +238,10 @@
         "state": "Pennsylvania",
         "stateCode": "PA",
         "postalCode": "68354",
-        "coordinates": { "lat": 16.782513, "lng": -139.34723 },
+        "coordinates": {
+          "lat": 16.782513,
+          "lng": -139.34723
+        },
         "country": "United States"
       },
       "macAddress": "10:7d:df:1f:97:58",
@@ -230,7 +263,10 @@
           "state": "Pennsylvania",
           "stateCode": "PA",
           "postalCode": "27768",
-          "coordinates": { "lat": 54.91193, "lng": -79.498328 },
+          "coordinates": {
+            "lat": 54.91193,
+            "lng": -79.498328
+          },
           "country": "United States"
         }
       },
@@ -261,7 +297,10 @@
       "height": 192.8,
       "weight": 63.62,
       "eyeColor": "Green",
-      "hair": { "color": "White", "type": "Straight" },
+      "hair": {
+        "color": "White",
+        "type": "Straight"
+      },
       "ip": "224.126.22.183",
       "address": {
         "address": "607 Fourth Street",
@@ -269,7 +308,10 @@
         "state": "Colorado",
         "stateCode": "CO",
         "postalCode": "26593",
-        "coordinates": { "lat": 0.505589, "lng": -157.43281 },
+        "coordinates": {
+          "lat": 0.505589,
+          "lng": -157.43281
+        },
         "country": "United States"
       },
       "macAddress": "32:b9:7e:8d:f5:e8",
@@ -291,7 +333,10 @@
           "state": "Idaho",
           "stateCode": "ID",
           "postalCode": "21965",
-          "coordinates": { "lat": 44.346545, "lng": -26.944701 },
+          "coordinates": {
+            "lat": 44.346545,
+            "lng": -26.944701
+          },
           "country": "United States"
         }
       },
@@ -322,7 +367,10 @@
       "height": 182.61,
       "weight": 58,
       "eyeColor": "Hazel",
-      "hair": { "color": "Gray", "type": "Curly" },
+      "hair": {
+        "color": "Gray",
+        "type": "Curly"
+      },
       "ip": "249.178.112.207",
       "address": {
         "address": "547 First Street",
@@ -330,7 +378,10 @@
         "state": "Tennessee",
         "stateCode": "TN",
         "postalCode": "83843",
-        "coordinates": { "lat": 75.32627, "lng": -26.15285 },
+        "coordinates": {
+          "lat": 75.32627,
+          "lng": -26.15285
+        },
         "country": "United States"
       },
       "macAddress": "9c:7f:ea:34:18:19",
@@ -352,7 +403,10 @@
           "state": "Oklahoma",
           "stateCode": "OK",
           "postalCode": "74263",
-          "coordinates": { "lat": 74.986644, "lng": -132.916888 },
+          "coordinates": {
+            "lat": 74.986644,
+            "lng": -132.916888
+          },
           "country": "United States"
         }
       },
@@ -383,7 +437,10 @@
       "height": 153.89,
       "weight": 77.42,
       "eyeColor": "Blue",
-      "hair": { "color": "White", "type": "Straight" },
+      "hair": {
+        "color": "White",
+        "type": "Straight"
+      },
       "ip": "166.204.84.32",
       "address": {
         "address": "664 Maple Street",
@@ -391,7 +448,10 @@
         "state": "Delaware",
         "stateCode": "DE",
         "postalCode": "86684",
-        "coordinates": { "lat": 35.289664, "lng": 7.063255 },
+        "coordinates": {
+          "lat": 35.289664,
+          "lng": 7.063255
+        },
         "country": "United States"
       },
       "macAddress": "d2:64:58:2d:1c:46",
@@ -413,7 +473,10 @@
           "state": "Kansas",
           "stateCode": "KS",
           "postalCode": "27858",
-          "coordinates": { "lat": -75.462366, "lng": -128.025697 },
+          "coordinates": {
+            "lat": -75.462366,
+            "lng": -128.025697
+          },
           "country": "United States"
         }
       },
@@ -444,7 +507,10 @@
       "height": 168.47,
       "weight": 57.08,
       "eyeColor": "Hazel",
-      "hair": { "color": "Red", "type": "Kinky" },
+      "hair": {
+        "color": "Red",
+        "type": "Kinky"
+      },
       "ip": "150.73.197.233",
       "address": {
         "address": "1197 First Street",
@@ -452,7 +518,10 @@
         "state": "Rhode Island",
         "stateCode": "RI",
         "postalCode": "24771",
-        "coordinates": { "lat": -81.194833, "lng": -87.948158 },
+        "coordinates": {
+          "lat": -81.194833,
+          "lng": -87.948158
+        },
         "country": "United States"
       },
       "macAddress": "8d:2e:c2:d6:e7:a8",
@@ -474,7 +543,10 @@
           "state": "Colorado",
           "stateCode": "CO",
           "postalCode": "47592",
-          "coordinates": { "lat": 87.970083, "lng": -42.769351 },
+          "coordinates": {
+            "lat": 87.970083,
+            "lng": -42.769351
+          },
           "country": "United States"
         }
       },
@@ -505,7 +577,10 @@
       "height": 159.19,
       "weight": 68.81,
       "eyeColor": "Hazel",
-      "hair": { "color": "Purple", "type": "Curly" },
+      "hair": {
+        "color": "Purple",
+        "type": "Curly"
+      },
       "ip": "63.191.127.71",
       "address": {
         "address": "466 Pine Street",
@@ -513,7 +588,10 @@
         "state": "Louisiana",
         "stateCode": "LA",
         "postalCode": "72360",
-        "coordinates": { "lat": 74.074918, "lng": -25.312703 },
+        "coordinates": {
+          "lat": 74.074918,
+          "lng": -25.312703
+        },
         "country": "United States"
       },
       "macAddress": "59:e:9e:e3:29:da",
@@ -535,7 +613,10 @@
           "state": "Florida",
           "stateCode": "FL",
           "postalCode": "28100",
-          "coordinates": { "lat": -67.45208, "lng": -23.209886 },
+          "coordinates": {
+            "lat": -67.45208,
+            "lng": -23.209886
+          },
           "country": "United States"
         }
       },
@@ -566,7 +647,10 @@
       "height": 150.56,
       "weight": 50.1,
       "eyeColor": "Brown",
-      "hair": { "color": "Blonde", "type": "Curly" },
+      "hair": {
+        "color": "Blonde",
+        "type": "Curly"
+      },
       "ip": "114.9.114.205",
       "address": {
         "address": "1964 Oak Street",
@@ -574,7 +658,10 @@
         "state": "Utah",
         "stateCode": "UT",
         "postalCode": "89352",
-        "coordinates": { "lat": 41.331324, "lng": 151.782727 },
+        "coordinates": {
+          "lat": 41.331324,
+          "lng": 151.782727
+        },
         "country": "United States"
       },
       "macAddress": "b1:b0:d0:a2:82:80",
@@ -596,7 +683,10 @@
           "state": "Maryland",
           "stateCode": "MD",
           "postalCode": "63847",
-          "coordinates": { "lat": -25.843393, "lng": -62.692681 },
+          "coordinates": {
+            "lat": -25.843393,
+            "lng": -62.692681
+          },
           "country": "United States"
         }
       },
@@ -627,7 +717,10 @@
       "height": 162.32,
       "weight": 93.16,
       "eyeColor": "Violet",
-      "hair": { "color": "Red", "type": "Wavy" },
+      "hair": {
+        "color": "Red",
+        "type": "Wavy"
+      },
       "ip": "56.201.85.9",
       "address": {
         "address": "576 Fifth Street",
@@ -635,7 +728,10 @@
         "state": "South Dakota",
         "stateCode": "SD",
         "postalCode": "57252",
-        "coordinates": { "lat": -66.218177, "lng": -145.340165 },
+        "coordinates": {
+          "lat": -66.218177,
+          "lng": -145.340165
+        },
         "country": "United States"
       },
       "macAddress": "31:9a:28:8b:99:6c",
@@ -657,7 +753,10 @@
           "state": "Connecticut",
           "stateCode": "CT",
           "postalCode": "79574",
-          "coordinates": { "lat": -81.841588, "lng": 31.79423 },
+          "coordinates": {
+            "lat": -81.841588,
+            "lng": 31.79423
+          },
           "country": "United States"
         }
       },
@@ -688,7 +787,10 @@
       "height": 188.08,
       "weight": 56.03,
       "eyeColor": "Blue",
-      "hair": { "color": "Purple", "type": "Wavy" },
+      "hair": {
+        "color": "Purple",
+        "type": "Wavy"
+      },
       "ip": "11.72.253.90",
       "address": {
         "address": "1627 Sixth Street",
@@ -696,7 +798,10 @@
         "state": "West Virginia",
         "stateCode": "WV",
         "postalCode": "41810",
-        "coordinates": { "lat": 24.857497, "lng": -34.865429 },
+        "coordinates": {
+          "lat": 24.857497,
+          "lng": -34.865429
+        },
         "country": "United States"
       },
       "macAddress": "53:d7:a4:6:1e:58",
@@ -718,7 +823,10 @@
           "state": "New Jersey",
           "stateCode": "NJ",
           "postalCode": "57518",
-          "coordinates": { "lat": 85.455933, "lng": 164.246103 },
+          "coordinates": {
+            "lat": 85.455933,
+            "lng": 164.246103
+          },
           "country": "United States"
         }
       },
@@ -749,7 +857,10 @@
       "height": 188.62,
       "weight": 69.49,
       "eyeColor": "Brown",
-      "hair": { "color": "Red", "type": "Curly" },
+      "hair": {
+        "color": "Red",
+        "type": "Curly"
+      },
       "ip": "169.154.126.57",
       "address": {
         "address": "1413 Maple Street",
@@ -757,7 +868,10 @@
         "state": "North Dakota",
         "stateCode": "ND",
         "postalCode": "73696",
-        "coordinates": { "lat": -25.0377, "lng": -151.70469 },
+        "coordinates": {
+          "lat": -25.0377,
+          "lng": -151.70469
+        },
         "country": "United States"
       },
       "macAddress": "d4:fe:ae:8f:eb:a3",
@@ -779,7 +893,10 @@
           "state": "Oregon",
           "stateCode": "OR",
           "postalCode": "83474",
-          "coordinates": { "lat": 19.490447, "lng": -13.173207 },
+          "coordinates": {
+            "lat": 19.490447,
+            "lng": -13.173207
+          },
           "country": "United States"
         }
       },
@@ -810,7 +927,10 @@
       "height": 178.92,
       "weight": 82.46,
       "eyeColor": "Brown",
-      "hair": { "color": "Gray", "type": "Kinky" },
+      "hair": {
+        "color": "Gray",
+        "type": "Kinky"
+      },
       "ip": "119.103.95.60",
       "address": {
         "address": "208 Second Street",
@@ -818,7 +938,10 @@
         "state": "Ohio",
         "stateCode": "OH",
         "postalCode": "42044",
-        "coordinates": { "lat": -44.443762, "lng": -151.420561 },
+        "coordinates": {
+          "lat": -44.443762,
+          "lng": -151.420561
+        },
         "country": "United States"
       },
       "macAddress": "f6:ff:37:aa:6c:f1",
@@ -840,7 +963,10 @@
           "state": "Montana",
           "stateCode": "MT",
           "postalCode": "17779",
-          "coordinates": { "lat": -18.371256, "lng": 22.566258 },
+          "coordinates": {
+            "lat": -18.371256,
+            "lng": 22.566258
+          },
           "country": "United States"
         }
       },
@@ -871,7 +997,10 @@
       "height": 173.21,
       "weight": 82.41,
       "eyeColor": "Hazel",
-      "hair": { "color": "Gray", "type": "Curly" },
+      "hair": {
+        "color": "Gray",
+        "type": "Curly"
+      },
       "ip": "250.2.241.204",
       "address": {
         "address": "31 Maple Street",
@@ -879,7 +1008,10 @@
         "state": "Utah",
         "stateCode": "UT",
         "postalCode": "78243",
-        "coordinates": { "lat": 8.152876, "lng": 113.29799 },
+        "coordinates": {
+          "lat": 8.152876,
+          "lng": 113.29799
+        },
         "country": "United States"
       },
       "macAddress": "f5:68:28:f9:ec:89",
@@ -901,7 +1033,10 @@
           "state": "Missouri",
           "stateCode": "MO",
           "postalCode": "29673",
-          "coordinates": { "lat": 24.169361, "lng": -29.395167 },
+          "coordinates": {
+            "lat": 24.169361,
+            "lng": -29.395167
+          },
           "country": "United States"
         }
       },
@@ -932,7 +1067,10 @@
       "height": 172.68,
       "weight": 93.9,
       "eyeColor": "Brown",
-      "hair": { "color": "Green", "type": "Curly" },
+      "hair": {
+        "color": "Green",
+        "type": "Curly"
+      },
       "ip": "131.217.4.214",
       "address": {
         "address": "1125 First Street",
@@ -940,7 +1078,10 @@
         "state": "Iowa",
         "stateCode": "IA",
         "postalCode": "30973",
-        "coordinates": { "lat": 12.789127, "lng": 85.792598 },
+        "coordinates": {
+          "lat": 12.789127,
+          "lng": 85.792598
+        },
         "country": "United States"
       },
       "macAddress": "b3:ff:f3:c5:37:46",
@@ -962,7 +1103,10 @@
           "state": "Rhode Island",
           "stateCode": "RI",
           "postalCode": "45238",
-          "coordinates": { "lat": -53.318189, "lng": 105.835271 },
+          "coordinates": {
+            "lat": -53.318189,
+            "lng": 105.835271
+          },
           "country": "United States"
         }
       },
@@ -993,7 +1137,10 @@
       "height": 184.08,
       "weight": 83.15,
       "eyeColor": "Violet",
-      "hair": { "color": "Blue", "type": "Curly" },
+      "hair": {
+        "color": "Blue",
+        "type": "Curly"
+      },
       "ip": "87.114.135.146",
       "address": {
         "address": "1170 Lincoln Street",
@@ -1001,7 +1148,10 @@
         "state": "Wyoming",
         "stateCode": "WY",
         "postalCode": "43423",
-        "coordinates": { "lat": -83.31484, "lng": 11.768071 },
+        "coordinates": {
+          "lat": -83.31484,
+          "lng": 11.768071
+        },
         "country": "United States"
       },
       "macAddress": "f8:e5:bd:43:bc:d8",
@@ -1023,7 +1173,10 @@
           "state": "Minnesota",
           "stateCode": "MN",
           "postalCode": "89416",
-          "coordinates": { "lat": 29.034592, "lng": -78.004598 },
+          "coordinates": {
+            "lat": 29.034592,
+            "lng": -78.004598
+          },
           "country": "United States"
         }
       },
@@ -1054,7 +1207,10 @@
       "height": 190.04,
       "weight": 72.43,
       "eyeColor": "Green",
-      "hair": { "color": "Green", "type": "Curly" },
+      "hair": {
+        "color": "Green",
+        "type": "Curly"
+      },
       "ip": "155.98.15.162",
       "address": {
         "address": "907 Seventh Street",
@@ -1062,7 +1218,10 @@
         "state": "Arkansas",
         "stateCode": "AR",
         "postalCode": "78805",
-        "coordinates": { "lat": -64.846516, "lng": 174.775744 },
+        "coordinates": {
+          "lat": -64.846516,
+          "lng": 174.775744
+        },
         "country": "United States"
       },
       "macAddress": "40:d:5c:1:7d:bf",
@@ -1084,7 +1243,10 @@
           "state": "Minnesota",
           "stateCode": "MN",
           "postalCode": "71896",
-          "coordinates": { "lat": -24.654063, "lng": -147.255268 },
+          "coordinates": {
+            "lat": -24.654063,
+            "lng": -147.255268
+          },
           "country": "United States"
         }
       },
@@ -1115,7 +1277,10 @@
       "height": 186.39,
       "weight": 74.61,
       "eyeColor": "Violet",
-      "hair": { "color": "Blue", "type": "Kinky" },
+      "hair": {
+        "color": "Blue",
+        "type": "Kinky"
+      },
       "ip": "19.183.240.94",
       "address": {
         "address": "996 Oak Street",
@@ -1123,7 +1288,10 @@
         "state": "New Mexico",
         "stateCode": "NM",
         "postalCode": "11407",
-        "coordinates": { "lat": 44.321308, "lng": -3.723903 },
+        "coordinates": {
+          "lat": 44.321308,
+          "lng": -3.723903
+        },
         "country": "United States"
       },
       "macAddress": "1d:a6:58:2a:e5:e4",
@@ -1145,7 +1313,10 @@
           "state": "Wisconsin",
           "stateCode": "WI",
           "postalCode": "51456",
-          "coordinates": { "lat": 25.672938, "lng": -76.54967 },
+          "coordinates": {
+            "lat": 25.672938,
+            "lng": -76.54967
+          },
           "country": "United States"
         }
       },
@@ -1176,7 +1347,10 @@
       "height": 162.57,
       "weight": 74.37,
       "eyeColor": "Green",
-      "hair": { "color": "Red", "type": "Straight" },
+      "hair": {
+        "color": "Red",
+        "type": "Straight"
+      },
       "ip": "221.127.144.198",
       "address": {
         "address": "1873 Main Street",
@@ -1184,7 +1358,10 @@
         "state": "Arkansas",
         "stateCode": "AR",
         "postalCode": "26600",
-        "coordinates": { "lat": 34.722451, "lng": 63.448927 },
+        "coordinates": {
+          "lat": 34.722451,
+          "lng": 63.448927
+        },
         "country": "United States"
       },
       "macAddress": "81:14:1:97:88:85",
@@ -1206,7 +1383,10 @@
           "state": "Hawaii",
           "stateCode": "HI",
           "postalCode": "34725",
-          "coordinates": { "lat": -80.416937, "lng": -83.224516 },
+          "coordinates": {
+            "lat": -80.416937,
+            "lng": -83.224516
+          },
           "country": "United States"
         }
       },
@@ -1237,7 +1417,10 @@
       "height": 189.28,
       "weight": 56.96,
       "eyeColor": "Red",
-      "hair": { "color": "Gray", "type": "Curly" },
+      "hair": {
+        "color": "Gray",
+        "type": "Curly"
+      },
       "ip": "85.34.1.204",
       "address": {
         "address": "1892 Lincoln Street",
@@ -1245,7 +1428,10 @@
         "state": "New Jersey",
         "stateCode": "NJ",
         "postalCode": "62091",
-        "coordinates": { "lat": 52.993694, "lng": 160.486892 },
+        "coordinates": {
+          "lat": 52.993694,
+          "lng": 160.486892
+        },
         "country": "United States"
       },
       "macAddress": "13:b0:d0:23:4d:26",
@@ -1267,7 +1453,10 @@
           "state": "Delaware",
           "stateCode": "DE",
           "postalCode": "63144",
-          "coordinates": { "lat": 1.629613, "lng": 23.232982 },
+          "coordinates": {
+            "lat": 1.629613,
+            "lng": 23.232982
+          },
           "country": "United States"
         }
       },
@@ -1298,7 +1487,10 @@
       "height": 195.33,
       "weight": 81.64,
       "eyeColor": "Blue",
-      "hair": { "color": "Purple", "type": "Straight" },
+      "hair": {
+        "color": "Purple",
+        "type": "Straight"
+      },
       "ip": "23.87.135.62",
       "address": {
         "address": "1701 Eighth Street",
@@ -1306,7 +1498,10 @@
         "state": "Illinois",
         "stateCode": "IL",
         "postalCode": "31585",
-        "coordinates": { "lat": -54.833799, "lng": -174.504027 },
+        "coordinates": {
+          "lat": -54.833799,
+          "lng": -174.504027
+        },
         "country": "United States"
       },
       "macAddress": "75:17:c6:35:fc:6d",
@@ -1328,7 +1523,10 @@
           "state": "South Dakota",
           "stateCode": "SD",
           "postalCode": "19039",
-          "coordinates": { "lat": 61.279254, "lng": -12.607767 },
+          "coordinates": {
+            "lat": 61.279254,
+            "lng": -12.607767
+          },
           "country": "United States"
         }
       },
@@ -1359,7 +1557,10 @@
       "height": 185.07,
       "weight": 63.97,
       "eyeColor": "Brown",
-      "hair": { "color": "Red", "type": "Kinky" },
+      "hair": {
+        "color": "Red",
+        "type": "Kinky"
+      },
       "ip": "66.78.20.21",
       "address": {
         "address": "401 Fourth Street",
@@ -1367,7 +1568,10 @@
         "state": "New Jersey",
         "stateCode": "NJ",
         "postalCode": "54972",
-        "coordinates": { "lat": -30.190759, "lng": -58.705979 },
+        "coordinates": {
+          "lat": -30.190759,
+          "lng": -58.705979
+        },
         "country": "United States"
       },
       "macAddress": "fc:f:29:e1:37:b8",
@@ -1389,7 +1593,10 @@
           "state": "North Carolina",
           "stateCode": "NC",
           "postalCode": "10385",
-          "coordinates": { "lat": 40.098115, "lng": -1.762972 },
+          "coordinates": {
+            "lat": 40.098115,
+            "lng": -1.762972
+          },
           "country": "United States"
         }
       },
@@ -1420,7 +1627,10 @@
       "height": 174.29,
       "weight": 59.98,
       "eyeColor": "Red",
-      "hair": { "color": "Purple", "type": "Wavy" },
+      "hair": {
+        "color": "Purple",
+        "type": "Wavy"
+      },
       "ip": "192.57.144.7",
       "address": {
         "address": "1578 Fourth Street",
@@ -1428,7 +1638,10 @@
         "state": "Missouri",
         "stateCode": "MO",
         "postalCode": "20673",
-        "coordinates": { "lat": -32.828675, "lng": -82.557354 },
+        "coordinates": {
+          "lat": -32.828675,
+          "lng": -82.557354
+        },
         "country": "United States"
       },
       "macAddress": "a7:26:10:7a:36:29",
@@ -1450,7 +1663,10 @@
           "state": "Louisiana",
           "stateCode": "LA",
           "postalCode": "78527",
-          "coordinates": { "lat": 75.982676, "lng": 164.459743 },
+          "coordinates": {
+            "lat": 75.982676,
+            "lng": 164.459743
+          },
           "country": "United States"
         }
       },
@@ -1481,7 +1697,10 @@
       "height": 184.32,
       "weight": 81.69,
       "eyeColor": "Amber",
-      "hair": { "color": "Red", "type": "Curly" },
+      "hair": {
+        "color": "Red",
+        "type": "Curly"
+      },
       "ip": "174.111.61.162",
       "address": {
         "address": "1591 Adams Street",
@@ -1489,7 +1708,10 @@
         "state": "New York",
         "stateCode": "NY",
         "postalCode": "69521",
-        "coordinates": { "lat": -26.832913, "lng": -75.445017 },
+        "coordinates": {
+          "lat": -26.832913,
+          "lng": -75.445017
+        },
         "country": "United States"
       },
       "macAddress": "b:ff:33:67:94:e4",
@@ -1511,7 +1733,10 @@
           "state": "North Carolina",
           "stateCode": "NC",
           "postalCode": "68274",
-          "coordinates": { "lat": -15.423746, "lng": 149.298887 },
+          "coordinates": {
+            "lat": -15.423746,
+            "lng": 149.298887
+          },
           "country": "United States"
         }
       },
@@ -1542,7 +1767,10 @@
       "height": 168.94,
       "weight": 58.47,
       "eyeColor": "Red",
-      "hair": { "color": "Black", "type": "Wavy" },
+      "hair": {
+        "color": "Black",
+        "type": "Wavy"
+      },
       "ip": "42.52.74.232",
       "address": {
         "address": "1065 Lincoln Street",
@@ -1550,7 +1778,10 @@
         "state": "Maine",
         "stateCode": "ME",
         "postalCode": "84898",
-        "coordinates": { "lat": 67.768359, "lng": 71.268643 },
+        "coordinates": {
+          "lat": 67.768359,
+          "lng": 71.268643
+        },
         "country": "United States"
       },
       "macAddress": "89:5e:5a:2a:72:42",
@@ -1572,7 +1803,10 @@
           "state": "Wisconsin",
           "stateCode": "WI",
           "postalCode": "45633",
-          "coordinates": { "lat": 26.014021, "lng": 40.572436 },
+          "coordinates": {
+            "lat": 26.014021,
+            "lng": 40.572436
+          },
           "country": "United States"
         }
       },
@@ -1603,7 +1837,10 @@
       "height": 186.21,
       "weight": 83.72,
       "eyeColor": "Brown",
-      "hair": { "color": "Blonde", "type": "Curly" },
+      "hair": {
+        "color": "Blonde",
+        "type": "Curly"
+      },
       "ip": "1.61.73.142",
       "address": {
         "address": "1163 Pine Street",
@@ -1611,7 +1848,10 @@
         "state": "Nevada",
         "stateCode": "NV",
         "postalCode": "58781",
-        "coordinates": { "lat": -3.456681, "lng": -134.937482 },
+        "coordinates": {
+          "lat": -3.456681,
+          "lng": -134.937482
+        },
         "country": "United States"
       },
       "macAddress": "6e:73:dc:3a:85:10",
@@ -1633,7 +1873,10 @@
           "state": "South Dakota",
           "stateCode": "SD",
           "postalCode": "45305",
-          "coordinates": { "lat": 21.323588, "lng": -83.531427 },
+          "coordinates": {
+            "lat": 21.323588,
+            "lng": -83.531427
+          },
           "country": "United States"
         }
       },
@@ -1664,7 +1907,10 @@
       "height": 181.42,
       "weight": 51.49,
       "eyeColor": "Gray",
-      "hair": { "color": "Purple", "type": "Straight" },
+      "hair": {
+        "color": "Purple",
+        "type": "Straight"
+      },
       "ip": "67.184.255.96",
       "address": {
         "address": "1946 Oak Street",
@@ -1672,7 +1918,10 @@
         "state": "Massachusetts",
         "stateCode": "MA",
         "postalCode": "41540",
-        "coordinates": { "lat": -9.87059, "lng": -72.336845 },
+        "coordinates": {
+          "lat": -9.87059,
+          "lng": -72.336845
+        },
         "country": "United States"
       },
       "macAddress": "18:b6:c7:a:50:3f",
@@ -1694,7 +1943,10 @@
           "state": "Wyoming",
           "stateCode": "WY",
           "postalCode": "85797",
-          "coordinates": { "lat": 72.231441, "lng": -158.147245 },
+          "coordinates": {
+            "lat": 72.231441,
+            "lng": -158.147245
+          },
           "country": "United States"
         }
       },
@@ -1725,7 +1977,10 @@
       "height": 180.25,
       "weight": 95.84,
       "eyeColor": "Gray",
-      "hair": { "color": "Black", "type": "Straight" },
+      "hair": {
+        "color": "Black",
+        "type": "Straight"
+      },
       "ip": "194.43.55.202",
       "address": {
         "address": "1837 Maple Street",
@@ -1733,7 +1988,10 @@
         "state": "Delaware",
         "stateCode": "DE",
         "postalCode": "81783",
-        "coordinates": { "lat": 35.498256, "lng": 154.088476 },
+        "coordinates": {
+          "lat": 35.498256,
+          "lng": 154.088476
+        },
         "country": "United States"
       },
       "macAddress": "fa:c3:1b:21:5f:44",
@@ -1755,7 +2013,10 @@
           "state": "West Virginia",
           "stateCode": "WV",
           "postalCode": "61805",
-          "coordinates": { "lat": -59.936335, "lng": -12.405368 },
+          "coordinates": {
+            "lat": -59.936335,
+            "lng": -12.405368
+          },
           "country": "United States"
         }
       },
@@ -1786,7 +2047,10 @@
       "height": 179.32,
       "weight": 76.93,
       "eyeColor": "Brown",
-      "hair": { "color": "Blonde", "type": "Straight" },
+      "hair": {
+        "color": "Blonde",
+        "type": "Straight"
+      },
       "ip": "11.35.69.81",
       "address": {
         "address": "568 Tenth Street",
@@ -1794,7 +2058,10 @@
         "state": "Montana",
         "stateCode": "MT",
         "postalCode": "54698",
-        "coordinates": { "lat": 20.946052, "lng": 100.228822 },
+        "coordinates": {
+          "lat": 20.946052,
+          "lng": 100.228822
+        },
         "country": "United States"
       },
       "macAddress": "fb:0:94:21:16:c",
@@ -1816,7 +2083,10 @@
           "state": "Michigan",
           "stateCode": "MI",
           "postalCode": "85777",
-          "coordinates": { "lat": 65.324413, "lng": 87.142893 },
+          "coordinates": {
+            "lat": 65.324413,
+            "lng": 87.142893
+          },
           "country": "United States"
         }
       },
