@@ -1,16 +1,16 @@
 /*  B"H
  */
 
-/** @type {{ items: User[] }} */
-const data = require("../data/users.json")
+/** @type {{ items: Product[] }} */
+const data = require("../data/products.json")
 
 /**
- * @typedef {import("../../Client/src/models/users").User} User
+ * @typedef {import("../../Client/src/models/products").Product} Product
  */
 
 /**
  * Get all users
- * @returns {User[]}
+ * @returns {Product[]}
  */
 function getAll() {
     return data.items
@@ -19,7 +19,7 @@ function getAll() {
 /**
  * Get a user by id
  * @param {number} id
- * @returns {User}
+ * @returns {Product}
  */
 function get(id) {
     return data.items.find((user) => user.id == id)
@@ -27,8 +27,8 @@ function get(id) {
 
 /**
  * Add a new user
- * @param {User} user
- * @returns {User}
+ * @param {Product} user
+ * @returns {Product}
  */
 function add(user) {
     user.id = data.items.reduce((prev, x) => (x.id > prev ? x.id : prev), 0) + 1
@@ -39,8 +39,8 @@ function add(user) {
 /**
  * Update a user
  * @param {number} id
- * @param {User} user
- * @returns {User}
+ * @param {Product} user
+ * @returns {Product}
  */
 function update(id, user) {
     const userToUpdate = get(id)
@@ -54,9 +54,9 @@ function update(id, user) {
  * @returns {{ success: boolean, message: string, id: number }}
  */
 function remove(id) {
-    const userIndex = data.items.findIndex((user) => user.id == id)
-    data.items.splice(userIndex, 1)
-    return { success: true, message: "User deleted", id: id }
+    const itemIndex = data.items.findIndex((user) => user.id == id)
+    data.items.splice(itemIndex, 1)
+    return { success: true, message: "Item deleted", id: id }
 }
 
 module.exports = {
